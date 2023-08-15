@@ -1,0 +1,96 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "username":"rysasahrial99",
+      "dasboard_name":"supercar",
+      "dasboard_name2":"Nature",
+      "dasboard_name3":"Animal",
+      "dasboard_name4":"null",
+      "dasboard_name5":"null",
+      "dasboard_name6":"null",
+      "dasboard_name7":"null",
+      "dasboard_name8":"null",
+      "dasboard_name9":"null",
+      "dasboard_name10":"null"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"Nature",
+      "image":"file:///android_asset/more/more1.png",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    },
+    {
+      "id":2,
+      "title":"Beach",
+      "image":"file:///android_asset/more/more2.png",
+      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+    },
+    {
+      "id":3,
+      "title":"Animals",
+      "image":"file:///android_asset/more/more3.png",
+      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+    },
+    {
+      "id":4,
+      "title":"Super Car",
+      "image":"file:///android_asset/more/more4.png",
+      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
+    },
+    {
+      "id":5,
+      "title":"Space",
+      "image":"file:///android_asset/more/more5.png",
+      "link":"https://aliendro.id/"
+    },
+    {
+      "id":6,
+      "title":"Love Bird",
+      "image":"file:///android_asset/more/more6.png",
+      "link":"https://aliendro.id/"
+    }
+
+  ],
+  "Shop":
+  [
+    {
+      "id":1,
+      "image":"file:///android_asset/more/more1.png",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    },
+    {
+      "id":2,
+      "image":"file:///android_asset/more/more2.png",
+      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+    }
+  ]
+}
