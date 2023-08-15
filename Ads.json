@@ -27,10 +27,10 @@
   ],
   "Wallpaper": [
     {
-      "username":"rysasahrial99",
-      "dasboard_name":"supercar",
-      "dasboard_name2":"Nature",
-      "dasboard_name3":"Animal",
+      "username":"ananta1981",
+      "dasboard_name":"modern room",
+      "dasboard_name2":"null",
+      "dasboard_name3":"null",
       "dasboard_name4":"null",
       "dasboard_name5":"null",
       "dasboard_name6":"null",
@@ -44,39 +44,39 @@
   [
     {
       "id":1,
-      "title":"Nature",
-      "image":"file:///android_asset/more/more1.png",
-      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":2,
-      "title":"Beach",
-      "image":"file:///android_asset/more/more2.png",
-      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+     "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":3,
-      "title":"Animals",
-      "image":"file:///android_asset/more/more3.png",
-      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":4,
-      "title":"Super Car",
-      "image":"file:///android_asset/more/more4.png",
-      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":5,
-      "title":"Space",
-      "image":"file:///android_asset/more/more5.png",
-      "link":"https://aliendro.id/"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":6,
-      "title":"Love Bird",
-      "image":"file:///android_asset/more/more6.png",
-      "link":"https://aliendro.id/"
+      "title":"",
+      "image":"",
+      "link":""
     }
 
   ],
@@ -84,13 +84,13 @@
   [
     {
       "id":1,
-      "image":"file:///android_asset/more/more1.png",
-      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      "image":"",
+      "link":""
     },
     {
       "id":2,
-      "image":"file:///android_asset/more/more2.png",
-      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+      "image":"",
+      "link":""
     }
   ]
 }
